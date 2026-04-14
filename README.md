@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Fraud Detection
 
 ## Problem
 Detecting the fraudulent transactions using machine learning (ML) on highly imbalanced data.
